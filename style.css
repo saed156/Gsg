@@ -1,0 +1,17 @@
+/* Center the heading */
+h1 {
+    text-align: center;
+}
+
+/* Style the list */
+ul {
+    list-style-type: none;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
+ul li {
+    font-weight: bold;
+    color: green;
+}
